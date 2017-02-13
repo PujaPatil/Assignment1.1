@@ -1,0 +1,5 @@
+Horizontal Scaling:
+Horizontal scaling divides the data set and then distributes the data sets over multiple servers.
+Each server is an independent database and collectively the server make up a logical database.
+Vertical  Scaling:
+It means adding more CPU power and storage resource to a single instance.
